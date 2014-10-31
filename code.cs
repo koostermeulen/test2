@@ -7,7 +7,7 @@ public class Hello
   static void Main()
   {
 	//more commetns
-	while(tru)
+	while(true)
     Console.WriteLine("Hi World");
     Console.WriteLine("Hello World");
     Console.WriteLine("Hi World")
